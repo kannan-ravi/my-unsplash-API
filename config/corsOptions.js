@@ -1,6 +1,6 @@
 const allowedOrigin = [
-  'http://localhost:5173',
-  'https://www.domain-name.on-render.com'
+  'https://my-unsplash-devchallenges.onrender.com/',
+  'https://my-unsplash-devchallenges.onrender.com'
 ]
 
 const corsOptions = {
